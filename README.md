@@ -19,9 +19,10 @@ Additionally, the flashcards are editable, allowing users to modify content afte
 
 ## Code:
 
-This JavaScript code powers the web application, enabling users to add, edit, and delete flashcards. Upon submitting the flashcard creation form, it sends a JSON object to the server via a POST request. The application dynamically generates HTML elements for each flashcard, provides editing options, and fetches existing flashcards from the server on page load.
+This JavaScript code powers the web application, enabling users to add, edit, and delete flashcards. Upon submitting the flashcard creation form, it sends a JSON object to the server via a POST request. The application dynamically generates HTML elements for each flashcard, provides editing options, and fetches existing flashcards from the server on page load. There is a POST function to create, GET to retrieve, DELETE to delete, and PUT to edit.
 
 ![JavaScript Code](https://github.com/arjoseven/midterm/assets/158103825/3c21f871-f4eb-4204-a5d3-2039d9e73721)
+<img width="571" alt="Screenshot 2024-03-10 at 3 54 07 AM" src="https://github.com/arjoseven/midterm/assets/158103825/75d86681-8728-44be-b8fe-3dc02d3c5872">
 
 
 
